@@ -1,0 +1,4 @@
+interface:
+  display_name: "像素音乐 MV"
+  short_description: "把整首歌剪成复古像素动画，按实际演唱同步歌词，并导出有字幕和纯画面两版"
+  default_prompt: "用 $pixel-mv 把这首歌做成完整的像素 MV，保留原曲，按人声对齐歌词。"
